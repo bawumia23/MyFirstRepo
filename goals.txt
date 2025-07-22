@@ -1,0 +1,7 @@
+    My Personal and Academic Goals for Next Year
+
+    - Learn a new programming language (e.g., Python or JavaScript).
+    - Complete a personal project (e.g., a simple web app or data analysis script).
+    - Read at least 5 technical books.
+    - Improve my understanding of cloud computing.
+    - Contribute to an open-source project.
