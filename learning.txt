@@ -1,0 +1,1 @@
+Learning about Git and GitHub has been a fascinating journey into version control. Understanding branching, merging, and collaboration workflows has significantly enhanced my approach to managing code and working with others.
